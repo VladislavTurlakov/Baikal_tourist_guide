@@ -1,1 +1,1 @@
-This project was implemented in the third year of university in 2024
+Данный проект был реализован на третьем курсе университета в 2024 году.
